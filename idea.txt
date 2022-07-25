@@ -1,0 +1,3 @@
+notes app for projects.
+projects have owners, participants and notes
+notes have priorities and participants
